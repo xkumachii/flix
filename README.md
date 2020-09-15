@@ -20,7 +20,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
+
 <img src="https://i.imgur.com/ki8dFHK.gif" width=250><br>
+<img src="https://i.imgur.com/DUE7Thm.png" width=250><br>
 
 ### Notes
 Installing pods on MacinCloud without root priveleges and sudo is a massive pain.
